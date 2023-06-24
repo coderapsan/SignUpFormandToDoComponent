@@ -1,0 +1,102 @@
+body {
+      background-color: #FFFFFF;
+      margin: 0;
+      padding: 24px;
+    
+    }
+    .title{
+      background-color:red;
+      color:#FFFFFF;
+      text-align: center;
+      padding-top:10px;
+      padding-bottom: 10px;
+      
+
+    }
+
+    .buttonCollection{
+      background-color: black;
+      color:white;
+      padding-top:25px;
+      padding-bottom: 25px;
+      
+    }
+  
+      
+      
+    
+    .labelStyle{
+      font-weight: 100;
+    }
+
+
+
+     
+
+
+
+
+.registerButtonStyle{
+  height: 40px;
+  width:95%;
+  background-color: red;
+  color:white;
+  border-radius: 25px;
+  border:none;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-bottom:25px;
+}
+.errorMessage{
+  color:red;
+  font-size: 20px;
+}
+.todoComponent{
+  background-color: black;
+  margin-bottom:150px;
+   
+
+
+}
+.tasks{
+  color:white;
+  align-items: center;
+  display:flex;
+  justify-content: center;
+ 
+}
+.h3class{
+  color:white;
+}
+.tableHeading{
+  color:white;
+  
+}
+table{
+  width:75%;
+  border-style: 2px solid white;
+  border-collapse: collapse;
+  align-items: center;
+  
+  
+  
+}
+.buttons{
+align-items: center;
+text-align: center;
+background-color: red;
+color:white;
+
+}
+
+
+table, th, td {
+  border: 1px dotted white;
+  text-align: center;
+}
+
+
+
+
+
+ 
